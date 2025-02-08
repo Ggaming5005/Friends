@@ -71,7 +71,7 @@ const customUsers = [
     emoji: "🎶",
     bgColor: "rgba(32, 178, 170, 0.1)",
   },
-];
+]; 
 
 const EpicFriendsArena = () => {
   const [text] = useTypewriter({
