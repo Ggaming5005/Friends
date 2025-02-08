@@ -71,6 +71,14 @@ const customUsers = [
     emoji: "🎶",
     bgColor: "rgba(32, 178, 170, 0.1)",
   },
+  {
+    id: 9,
+    name: "btn dvt",
+    online: true,
+    color: "#20B2AA",
+    emoji: "🎶",
+    bgColor: "rgba(32, 178, 170, 0.1)",
+  },
 ];
 
 const EpicFriendsArena = () => {
