@@ -68,8 +68,24 @@ const customUsers = [
     name: "cxde 3",
     online: true,
     color: "#20B2AA",
-    emoji: "🎶",
+    emoji: "🦂",
     bgColor: "rgba(32, 178, 170, 0.1)",
+  },
+    {
+    id: 9,
+    name: "xen",
+    online: true,
+    color: "#20A2AA",
+    emoji: "😼",
+    bgColor: "rgba(38, 98, 163, 0.1)",
+  },
+      {
+    id: 10,
+    name: "cybr",
+    online: true,
+    color: "#30B2AA",
+    emoji: "👻",
+    bgColor: "rgba(156, 22, 44, 0.1)",
   },
 ];
 
