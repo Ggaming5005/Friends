@@ -71,7 +71,7 @@ const customUsers = [
     emoji: "🦂",
     bgColor: "rgba(32, 178, 170, 0.1)",
   },
-    {
+  {
     id: 9,
     name: "xen",
     online: true,
@@ -79,7 +79,7 @@ const customUsers = [
     emoji: "😼",
     bgColor: "rgba(38, 98, 163, 0.1)",
   },
-      {
+  {
     id: 10,
     name: "cybr",
     online: true,
@@ -334,6 +334,9 @@ const EpicFriendsArena = () => {
       <footer className="footer">
         <p>
           Made by <span className="author">Gio</span>
+        </p>
+        <p>
+          Version <span className="version">1.0.1</span>
         </p>
       </footer>
     </ParallaxProvider>
