@@ -73,7 +73,7 @@ const customUsers = [
   },
   {
     id: 9,
-    name: "xen",
+    name: "noogie",
     online: true,
     color: "#20A2AA",
     emoji: "😼",
@@ -81,7 +81,7 @@ const customUsers = [
   },
   {
     id: 10,
-    name: "cybr",
+    name: "mina",
     online: true,
     color: "#30B2AA",
     emoji: "👻",
